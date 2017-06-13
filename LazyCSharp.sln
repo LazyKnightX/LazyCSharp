@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lazy.IO.Excel", "Lazy.IO.Excel\Lazy.IO.Excel.csproj", "{95115C95-A035-4FDE-A843-CEB993C01C53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{B2A0D4DE-1FFE-4589-8AF1-68CDEBAB65F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95115C95-A035-4FDE-A843-CEB993C01C53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95115C95-A035-4FDE-A843-CEB993C01C53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95115C95-A035-4FDE-A843-CEB993C01C53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95115C95-A035-4FDE-A843-CEB993C01C53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2A0D4DE-1FFE-4589-8AF1-68CDEBAB65F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2A0D4DE-1FFE-4589-8AF1-68CDEBAB65F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2A0D4DE-1FFE-4589-8AF1-68CDEBAB65F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2A0D4DE-1FFE-4589-8AF1-68CDEBAB65F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
